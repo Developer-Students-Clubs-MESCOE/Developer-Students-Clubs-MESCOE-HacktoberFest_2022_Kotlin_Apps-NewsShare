@@ -1,1 +1,1 @@
-Developer-Students-Clubs-MESCOE-HacktoberFest_2022_Kotlin_Apps-NewsShare
+HacktoberFest_2022_Kotlin_App-NewsShare
